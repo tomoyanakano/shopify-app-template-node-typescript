@@ -9,7 +9,7 @@ updates:
     directory: "/web" # Location of package manifests
     schedule:
       interval: "weekly"
-  - package-ecosyste: "npm"
+  - package-ecosystem: "npm"
     directory: "/web/frontend"
     schedule:
       interval: "weekly"
