@@ -12,8 +12,8 @@
     "deploy": "shopify app deploy"
   },
   "dependencies": {
-    "@shopify/app": "3.47.5",
-    "@shopify/cli": "3.47.5"
+    "@shopify/app": "3.54.0",
+    "@shopify/cli": "3.54.0"
   },
   "author": "Tomoya Nakano@tomotomy"
 }
