@@ -14,9 +14,8 @@
     "node": ">= 12.16"
   },
   "dependencies": {
-    "@shopify/app-bridge": "^3.1.0",
-    "@shopify/app-bridge-react": "^4.1.2",
-    "@shopify/app-bridge-utils": "^3.1.0",
+    "@shopify/app-bridge": "^3.7.7",
+    "@shopify/app-bridge-react": "^3.7.7",
     "@shopify/polaris": "^10.49.1",
     "@types/react-router-dom": "^5.3.3",
     "@vitejs/plugin-react": "4.2.1",
